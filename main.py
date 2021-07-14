@@ -1,4 +1,5 @@
-#################Student Management system####################
+##################Student Management system#################################################3
+#####For add the student detail######
 def addstudent():
     def submitadd():
         id = idval.get()
